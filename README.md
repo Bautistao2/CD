@@ -133,5 +133,4 @@ Librerías utilizadas:
 ## 📌 **Conclusión**
 Este proyecto muestra cómo entrenar, optimizar y evaluar un **Árbol de Decisión** para la clasificación de tumores de mama. Además, permite visualizar el proceso de decisión del modelo, lo que es útil para entender cómo toma sus predicciones.
 
-🚀 **¡Prueba este proyecto y mejora el rendimiento del modelo ajustando los hiperparámetros!**
 
